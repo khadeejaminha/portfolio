@@ -1,0 +1,20 @@
+Day 1
+
+created an html file
+header - navigation bar(About,education,contact)
+
+Day2
+
+created css file and linked it
+some basics css like backroung color etc.
+
+Day3
+
+more css added 
+footer also added
+
+Day4
+
+added a media query for responsiveness
+edited the css portion
+pushed it into git and deployed it.
